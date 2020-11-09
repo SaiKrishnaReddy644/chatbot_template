@@ -5,7 +5,7 @@
 	
 	* Add you serviceAccount of dialogflow in the current directory with name "serviceAccount.json"
 	
-	* Diaglogflow webhooks can be added in the server/index.js
+	* Intents can be added in the server/index.js where Dialogflow webhook is setup
 	
 	* Start chatbot web server by navigating to starting directory
 	
